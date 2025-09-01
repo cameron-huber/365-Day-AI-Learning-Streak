@@ -61,3 +61,6 @@ By the end of this session, you can:
 - [ ] Perform basic vector addition and scaling
 - [ ] Give one example of why vectors matter for AI/data representation
 - [ ] Feel confident moving to vector spaces tomorrow
+
+# Notes:
+https://share.goodnotes.com/s/PQRcke8lVJ6UJCL5OftlBS
